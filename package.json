@@ -1,0 +1,25 @@
+{
+  "name": "connect-proxy-middleware",
+  "version": "0.0.0",
+  "description": "Connect middleware to proxy matching requests.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jgrund/connect-proxy-middleware.git"
+  },
+  "keywords": [
+    "proxy",
+    "connect",
+    "middleware"
+  ],
+  "author": "Joe Grund",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "gitHead": "75fdef12def66e083198980e47ae42de943ff7a0",
+  "devDependencies": {
+    "connect": "~2.6.0"
+  }
+}
