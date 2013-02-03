@@ -4,7 +4,7 @@
   "description": "Connect middleware to proxy matching requests.",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "./node_modules/.bin/mocha"
   },
   "repository": {
     "type": "git",
@@ -20,6 +20,7 @@
   "readmeFilename": "README.md",
   "gitHead": "75fdef12def66e083198980e47ae42de943ff7a0",
   "devDependencies": {
-    "connect": "~2.6.0"
+    "connect": "~2.7.0",
+    "mocha": "~1.8.1"
   }
 }
