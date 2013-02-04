@@ -21,6 +21,7 @@
   "gitHead": "75fdef12def66e083198980e47ae42de943ff7a0",
   "devDependencies": {
     "connect": "~2.7.0",
-    "mocha": "~1.8.1"
+    "mocha": "~1.8.1",
+    "sinon": "~1.5.2"
   }
 }
